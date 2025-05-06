@@ -25,7 +25,9 @@ Even though some cities have lots of trips and many new passengers, GoodCabs is 
 
 ✔ **Tools:** Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
 
-# Data Modeling
+# ✅ Data Modeling
+![Screenshot 2025-05-06 184151](https://github.com/user-attachments/assets/915120ee-985f-4976-9963-88480db152b8)
+
 
 # ✅ Key Insights
 # City-Level Performance Summary
