@@ -28,9 +28,16 @@ Even though some cities have lots of trips and many new passengers, GoodCabs is 
 # ✅ Data Modeling
 ![Screenshot 2025-05-06 184151](https://github.com/user-attachments/assets/915120ee-985f-4976-9963-88480db152b8)
 
+# 🏠 Login Page
+![Screenshot 2025-05-12 104654](https://github.com/user-attachments/assets/fba9d1b0-8086-41b6-92f5-5aef1f517f5f)
+# 📊 Executive Dashboard
+![Screenshot 2025-05-12 104711](https://github.com/user-attachments/assets/48f524c4-63ad-4e7c-80a9-a1d71447b978)
+# 🏙️ City Dashboard
+![Screenshot 2025-05-12 104732](https://github.com/user-attachments/assets/9767d643-0348-48cc-b362-4f03d15c7830)
+# 👨‍👩‍👧 Passenger Dashboard
+![Screenshot 2025-05-12 104748](https://github.com/user-attachments/assets/d9557d24-e1ae-4312-a411-357d6fb806d2)
 
 # ✅ Key Insights
-# City-Level Performance Summary
 
 ✔ Jaipur has the most trips (18%) and highest revenue (₹37.2M, 34%).
 
