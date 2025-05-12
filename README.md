@@ -1,12 +1,12 @@
 # Goodcabs-Performance-Tracking-2024
 
-# ✅ Introduction
+# 📝  Introduction
 In today’s competitive ride-hailing market, it’s important to understand how people use the service and how each city is performing. GoodCabs has collected a lot of data about trips, income, passengers, ratings, and performance targets. This Power BI dashboard project will help turn that data into clear visuals, so the company can make better, more informed decisions.
 
-# ✅ Problem Statement
+# ⚠️ Problem Statement
 Even though some cities have lots of trips and many new passengers, GoodCabs is still facing issues like low revenue growth, poor ratings in some areas, and fewer repeat users. The company doesn’t have a clear view of how each city is doing, how seasons affect usage, or what drives customer loyalty. There’s also a need to understand how business vs. tourist cities perform differently.
 
-# ✅ Objective
+# 🎯 Objective
 ✔ Create a Power BI dashboard to show key numbers like total trips, revenue, distance, ratings, and passenger types.
 
 ✔ Check how well each city is meeting monthly goals for trips, new users, and ratings.
